@@ -1,41 +1,42 @@
-#include "struct_lib.h"
+#include "libs.h"
 
-void create_db ()
+
+void create_db (Ozon **product, int* products_number)
 {
     
 }
 
-void make_db ()
+void load_db (Ozon **product, int* products_number)
 {
     
 }
 
-void save_db ()
+void save_db (Ozon **product, int* products_number)
 {
     
 }
 
-void add_db ()
+void add_db (Ozon **product, int* products_number)
 {
     
 }
 
-void search_articul_db ()
+void search_article_db (Ozon **product, int* products_number)
 {
     
 }
 
-void print_sale_db ()
+void print_discount_db (Ozon **product, int* products_number)
 {
     
 }
 
-void print_not_avalable_db ()
+void print_not_avalable_db (Ozon **product, int* products_number)
 {
     
 }
 
-void db_sort ()
+void db_sort (Ozon **product, int* products_number)
 {
     
 }
