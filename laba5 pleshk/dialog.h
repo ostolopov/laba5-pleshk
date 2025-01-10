@@ -1,12 +1,9 @@
 #ifndef dialog_h
 #define dialog_h
-
-#include "libs.h"
-
+// пока что не нужно, использую switch case
 void dialog (void);
 int choose_option (int dialog_number);
 void exit_dialog (Ozon **product, int* products_number);
-
 
 static const char *messages[] = {
     "(0) Выход",
@@ -21,7 +18,17 @@ static const char *messages[] = {
     "(9) Отсортировать все товары по указанному полю (Наименование, Артикул, Количество, Цена)"
 };
 
+static const char *sorts[] = {
+    "(0) Выход",
+    "(1)",
+    "(2)",
+    "(3)",
+    "(4)"
+};
+
 static const int count_messages = sizeof(messages) / sizeof(messages[0]);
 static void (*func_num[])(Ozon **product, int* products_number) = {exit_dialog, create_db , load_db , save_db , add_db , search_article_db , print_discount_db , print_not_avalable_db , db_sort};
 
+static const int count_sorts = sizeof(sorts) / sizeof(sorts[0]);
+static void (*sort_num[])(const void *a, const void *b) = {};
 #endif
