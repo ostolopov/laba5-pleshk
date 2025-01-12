@@ -5,15 +5,15 @@ int main(void)
     Ozon *products = NULL;
     int products_number = 0;
     int case_number = 0;
-    printf("(0) Выход\n"
+    printf(
            "(1) Создать новую БД (пункт всегда активен).\n"
            "(2) Загрузить данные из БД (все остальные пункты меню должны стать активными только послезагрузки данных или создания новой БД)\n"
            "(3) Сохранить БД (БД всегда находится в одном и том же файле)\n("
            "4) Добавить товар\n"
            "(5) Вывести все товары в формате Артикул Наименование Цена Количество Скидка.\n"
            "(6) Поиск товара по артикулу\n"
-           "(3.1) Изменение данных в найденном товаре\n"
-           "(3.2) Удаление товара\n"
+           //"(3.1) Изменение данных в найденном товаре\n"
+           //"(3.2) Удаление товара\n"
            "(7) Вывести все товары со скидкой\n"
            "(8) Вывести все товары, которых нет в наличии\n"
            "(9) Отсортировать все товары по указанному полю (Наименование, Артикул, Количество, Цена)\n"
@@ -32,22 +32,22 @@ int main(void)
                 save_db (&products, &products_number);
                 break;
             case 4:
-                add_db (&products, &products_number);
+                add_product (&products, &products_number);
                 break;
             case 5:
-                print_db (&products, &products_number);
+                print_products (&products, &products_number);
                 break;
             case 6:
-                search_article_db (&products, &products_number);
+                search_article_products (&products, &products_number);
                 break;
             case 7:
-                print_discount_db (&products, &products_number);
+                print_discount_products (&products, &products_number);
                 break;
             case 8:
-                print_not_avalable_db (&products, &products_number);
+                print_not_avalable_products (&products, &products_number);
                 break;
             case 9:
-                db_sort (&products, &products_number);
+                products_sort (&products, &products_number);
                 break;
             case 10:
                 system("clear");
@@ -59,15 +59,15 @@ int main(void)
                 
                 break;
         }
-        printf("(0) Выход\n"
+        printf(
                    "(1) Создать новую БД (пункт всегда активен).\n"
                    "(2) Загрузить данные из БД (все остальные пункты меню должны стать активными только послезагрузки данных или создания новой БД)\n"
                    "(3) Сохранить БД (БД всегда находится в одном и том же файле)\n("
                    "4) Добавить товар\n"
                    "(5) Вывести все товары в формате Артикул Наименование Цена Количество Скидка.\n"
                    "(6) Поиск товара по артикулу\n"
-                   "(3.1) Изменение данных в найденном товаре\n"
-                   "(3.2) Удаление товара\n"
+                   //"(3.1) Изменение данных в найденном товаре\n"
+                   //"(3.2) Удаление товара\n"
                    "(7) Вывести все товары со скидкой\n"
                    "(8) Вывести все товары, которых нет в наличии\n"
                    "(9) Отсортировать все товары по указанному полю (Наименование, Артикул, Количество, Цена)\n"

@@ -1,1 +1,400 @@
-
+1000021	              PureTone Earbuds	       75629.00	        94	      1%
+1000197	           SwiftCharge Adapter	      741295.00	       101	     21%
+1000257	          UltraClean Detergent	      874120.00	       196	      4%
+1000128	             FreshVibes Candle	      317158.00	       240	     53%
+1000217	              ZenTime Yoga Mat	      376824.00	       261	      0%
+1000153	              TrueFocus Camera	      574958.00	       289	     33%
+1000104	         BoldBrew Coffee Maker	      917746.00	       318	     99%
+1000301	          GlowFresh Toothpaste	      494784.00	       324	     33%
+1000025	              ActiveStep Shoes	      354438.00	       337	     44%
+1000138	              TrueFocus Camera	      580167.00	       384	     49%
+1000030	           StoneEdge Knife Set	      827968.00	       399	     12%
+1000110	          GlowTime Alarm Clock	      783320.00	       413	     25%
+1000360	           MegaBass Headphones	      816636.00	       415	     91%
+1000077	          UltraClean Detergent	      495370.00	       444	     85%
+1000140	            SmoothCare Shampoo	      627384.00	       520	     91%
+1000187	                LuxeSkin Serum	      559364.00	       522	     90%
+1000043	     LuxeBrew Espresso Machine	      725226.00	       534	     94%
+1000209	                SmartClean Mop	      377448.00	       571	     75%
+1000114	            ZenBreeze Diffuser	      490553.00	       593	     65%
+1000346	               FreshGuard Mask	      842319.00	       605	     91%
+1000335	           AquaShield Raincoat	      244924.00	       633	     47%
+1000011	            SmoothCare Shampoo	      901393.00	       672	     36%
+1000228	     LuxeBrew Espresso Machine	         562.00	       728	     63%
+1000233	                  ProHeat Iron	      408776.00	       739	     84%
+1000309	             FreshVibes Candle	      181687.00	       768	     26%
+1000218	              EcoChic Tote Bag	      871857.00	       778	     23%
+1000370	                EasyChop Board	      632095.00	       830	     14%
+1000166	            PowerBoost Charger	       71032.00	       832	     41%
+1000395	            ZenBreeze Diffuser	      853015.00	       911	     78%
+1000007	               EasyFix Toolkit	      493099.00	       933	     78%
+1000033	           FitTrack Smartwatch	      797942.00	       962	     65%
+1000315	         SparkClean Toothbrush	      505617.00	       978	     23%
+1000170	       GlideEase Roller Skates	      649039.00	      1029	      8%
+1000314	          BrightFlex Desk Lamp	      468129.00	      1035	     88%
+1000155	              RapidWash Washer	      509543.00	      1038	     38%
+1000270	           PureChill Ice Maker	      109524.00	      1064	     61%
+1000343	                GlowTime Clock	      804428.00	      1102	     83%
+1000054	              TrueFocus Camera	      729662.00	      1210	     11%
+1000223	                 ChillEase Fan	      775251.00	      1226	     59%
+1000087	             SafeShield Helmet	      340000.00	      1238	     26%
+1000374	              RapidMix Blender	       74999.00	      1266	     20%
+1000002	                SmoothFlow Pen	       27544.00	      1272	     78%
+1000348	           FitTrack Smartwatch	      334626.00	      1283	     19%
+1000292	          ChillWave Cooler Bag	      589545.00	      1292	     28%
+1000324	           FitTrack Smartwatch	      178968.00	      1308	     79%
+1000336	          UltraTone Microphone	      336767.00	      1330	     65%
+1000089	           GlideClean Squeegee	      498354.00	      1360	     18%
+1000120	     HomeGuard Security Camera	      972220.00	      1373	     11%
+1000071	           QuickClean Scrubber	      938554.00	      1412	     97%
+1000268	           SwiftCharge Adapter	      111243.00	      1431	     46%
+1000350	                DreamFit Socks	      103131.00	      1462	     36%
+1000068	               HeatWave Kettle	      747317.00	      1545	     25%
+1000112	               BrightGlow Lamp	      265324.00	      1550	     95%
+1000282	     LuxeBrew Espresso Machine	      941412.00	      1553	     25%
+1000107	            ShineBright Mirror	       56598.00	      1560	     51%
+1000373	               BrightGlow Lamp	      899439.00	      1609	     67%
+1000399	         EcoFresh Air Purifier	      614953.00	      1617	     99%
+1000118	              SwiftGrip Gloves	      116641.00	      1625	     17%
+1000337	            ZenBreeze Diffuser	       56805.00	      1682	     14%
+1000080	                 EcoBreeze Fan	      227878.00	      1711	     14%
+1000005	            SpeedySlice Cutter	      378840.00	      1729	     12%
+1000012	              StoneBrew Teapot	      425228.00	      1745	     91%
+1000111	                GlowSkin Cream	      854788.00	      1783	     17%
+1000317	                BoldStep Boots	      825199.00	      1806	     55%
+1000052	           PureChill Ice Maker	      112991.00	      1815	     33%
+1000119	         SparkClean Toothbrush	      114315.00	      1842	     74%
+1000319	              RapidMix Blender	       91137.00	      1864	     16%
+1000056	        PureGrip Tennis Racket	      977995.00	      1868	     76%
+1000210	               UltraLight Tent	      669329.00	      1871	     93%
+1000353	              SwiftGrip Gloves	      533999.00	      1896	     45%
+1000178	        PureGrip Tennis Racket	      846043.00	      1921	     52%
+1000312	           ZenGlow Night Light	      996176.00	      1962	     17%
+1000167	           FreshPack Lunch Box	      942217.00	      1977	      0%
+1000304	                GlowSkin Cream	      124134.00	      1979	      7%
+1000265	           LightWave Projector	      340251.00	      2028	     44%
+1000371	                GlowSkin Cream	      629937.00	      2136	      9%
+1000200	       PowerMax Extension Cord	      309669.00	      2137	     96%
+1000293	          UltraClean Detergent	      652192.00	      2143	     63%
+1000303	              ChillMate Cooler	      155364.00	      2144	     51%
+1000366	       VitalMix Blender Bottle	      581096.00	      2186	     85%
+1000015	           TravelMate Suitcase	      509530.00	      2196	      3%
+1000323	        AromaFlow Oil Diffuser	      225063.00	      2228	     35%
+1000063	          GlowTime Alarm Clock	      277844.00	      2331	     38%
+1000192	            AromaBliss Tea Set	      940462.00	      2377	     10%
+1000047	            AromaBliss Tea Set	      413496.00	      2385	     85%
+1000048	              LuxeTouch Wallet	       28144.00	      2420	     68%
+1000181	                QuickBake Oven	      977992.00	      2431	     16%
+1000377	              TrueFocus Camera	      146994.00	      2436	     45%
+1000241	              EcoChic Tote Bag	      738283.00	      2466	     74%
+1000329	                BoldStep Boots	      652610.00	      2468	     34%
+1000388	             CozyDream Blanket	      177616.00	      2551	     61%
+1000375	              PureTone Earbuds	      459922.00	      2577	     42%
+1000190	           AquaStep Flip-Flops	      374165.00	      2581	      2%
+1000090	                 EcoBreeze Fan	      313729.00	      2585	     15%
+1000281	          VitalCore Supplement	       29607.00	      2605	     33%
+1000298	              SwiftGrip Gloves	      166537.00	      2615	     66%
+1000160	              RapidMix Blender	      167045.00	      2615	     76%
+1000212	          BrightFlex Desk Lamp	      594410.00	      2630	     80%
+1000171	            PowerBoost Charger	      510761.00	      2657	     52%
+1000280	                 ChillEase Fan	      725811.00	      2672	     23%
+1000162	            PowerBoost Charger	      936798.00	      2698	     39%
+1000149	     HomeGuard Security Camera	      470415.00	      2710	     92%
+1000136	             QuickFix Adhesive	      270791.00	      2720	     69%
+1000275	              LuxeTouch Wallet	      966639.00	      2722	     17%
+1000103	           GlidePro Skateboard	       73650.00	      2723	     71%
+1000380	                DreamFit Socks	      174992.00	      2805	     60%
+1000229	             TrueTone Speakers	      712623.00	      2890	     78%
+1000177	               AquaEase Filter	      735799.00	      2914	     66%
+1000144	              TrueFocus Camera	      958028.00	      2918	     29%
+1000372	              StoneBrew Teapot	      884381.00	      2919	     10%
+1000092	              RapidMix Blender	      547747.00	      2967	     69%
+1000247	             PureComfort Chair	      319798.00	      3028	     70%
+1000235	              RapidMix Blender	      466671.00	      3028	     70%
+1000004	           PureChill Ice Maker	      807987.00	      3042	      3%
+1000227	               EasyFix Toolkit	      735140.00	      3067	      7%
+1000117	                GlowTime Clock	      120171.00	      3127	     87%
+1000006	            PowerBoost Charger	      817709.00	      3169	     57%
+1000251	             GourmetChef Knife	      655128.00	      3213	     50%
+1000135	            ZenBreeze Diffuser	      301905.00	      3216	     73%
+1000378	         EcoFresh Air Purifier	      628480.00	      3233	     56%
+1000368	                GlowSkin Cream	      472202.00	      3251	     95%
+1000141	            ZenBreeze Diffuser	      428211.00	      3258	     44%
+1000318	         BoldBrew Coffee Maker	      703488.00	      3276	     96%
+1000287	       GlideEase Roller Skates	      193236.00	      3276	     46%
+1000093	               FreshGuard Mask	      404473.00	      3303	      3%
+1000156	          VitalCore Supplement	      597719.00	      3321	     96%
+1000253	          UltraTone Microphone	       48632.00	      3330	     59%
+1000213	           MegaBass Headphones	      398138.00	      3342	     82%
+1000207	           SwiftCharge Adapter	       78741.00	      3368	     47%
+1000055	               BrightGlow Lamp	      822761.00	      3377	     25%
+1000340	            PowerBoost Charger	      101085.00	      3430	      0%
+1000369	          VitalCore Supplement	      302208.00	      3454	     80%
+1000061	              EcoChic Tote Bag	       16855.00	      3455	      6%
+1000168	               CloudEase Throw	       84747.00	      3465	     22%
+1000211	              RapidMix Blender	      738820.00	      3471	     64%
+1000185	           QuickClean Scrubber	      972091.00	      3489	     34%
+1000062	              MegaClean Vacuum	      586676.00	      3502	      8%
+1000199	                 EcoBreeze Fan	      593928.00	      3510	      5%
+1000031	               EasyFix Toolkit	      441594.00	      3557	      8%
+1000271	              RapidMix Blender	      681562.00	      3620	     61%
+1000391	                 SmartFit Band	      517639.00	      3743	      2%
+1000250	                GlowSkin Cream	      551951.00	      3781	     30%
+1000159	               CloudEase Throw	      263734.00	      3784	     67%
+1000157	            AromaBliss Tea Set	      428359.00	      3788	     87%
+1000289	              RapidMix Blender	      499328.00	      3842	     59%
+1000078	              ActiveStep Shoes	      608155.00	      3898	     33%
+1000240	               UltraLight Tent	      985788.00	      3899	     44%
+1000307	               UltraLight Tent	      236096.00	      3929	     53%
+1000095	           FitTrack Smartwatch	      739824.00	      3930	     32%
+1000397	               BrightGlow Lamp	      531099.00	      3983	      9%
+1000264	         SparkClean Toothbrush	       49440.00	      4054	     81%
+1000225	          ChillWave Cooler Bag	      383137.00	      4100	     85%
+1000164	             PowerCore Battery	      264924.00	      4107	     65%
+1000234	              ZenTime Yoga Mat	      275514.00	      4108	     54%
+1000290	       GlideEase Roller Skates	      205716.00	      4145	     27%
+1000285	          UltraTone Microphone	      251138.00	      4160	     29%
+1000029	     HomeGuard Security Camera	      853635.00	      4175	     98%
+1000122	               UltraLight Tent	      815166.00	      4189	     56%
+1000022	              CloudSoft Pillow	       30105.00	      4195	      4%
+1000069	          UltraClean Detergent	      421564.00	      4256	     97%
+1000294	       VitalMix Blender Bottle	       69801.00	      4272	      9%
+1000355	             GourmetChef Knife	      976536.00	      4286	     10%
+1000260	           StormForce Umbrella	      279452.00	      4288	     28%
+1000023	                 ChillEase Fan	      782188.00	      4298	     23%
+1000349	                 SmartHome Hub	      897644.00	      4330	     75%
+1000361	            AromaBliss Tea Set	      654832.00	      4369	     34%
+1000094	         SparkClean Toothbrush	      205658.00	      4385	     59%
+1000165	             GourmetChef Knife	      777106.00	      4454	     50%
+1000341	              StoneBrew Teapot	      230484.00	      4467	     88%
+1000295	             GourmetChef Knife	      624513.00	      4486	     69%
+1000320	           StormForce Umbrella	      180683.00	      4491	     98%
+1000198	                EasyChop Board	      128245.00	      4501	     61%
+1000108	           GlidePro Skateboard	      789551.00	      4503	      1%
+1000113	                 EcoBreeze Fan	      835690.00	      4511	     66%
+1000098	          UltraClean Detergent	      462533.00	      4520	     58%
+1000020	              MegaClean Vacuum	      339425.00	      4536	     69%
+1000101	          GlowTime Alarm Clock	      306249.00	      4542	     71%
+1000357	                 SmartFit Band	      506838.00	      4571	     21%
+1000286	         HydroBoost Showerhead	      794292.00	      4598	     33%
+1000016	           ToughTrail Backpack	      728549.00	      4666	     24%
+1000180	              LuxeTouch Wallet	      409605.00	      4669	     43%
+1000035	               FreshGuard Mask	      973671.00	      4712	      1%
+1000150	            ZenBreeze Diffuser	      463037.00	      4747	     99%
+1000339	           FitTrack Smartwatch	      517960.00	      4760	     12%
+1000208	              StormWear Jacket	      902501.00	      4787	     34%
+1000036	                LuxeSkin Serum	      314738.00	      4831	     57%
+1000176	              ZenTime Yoga Mat	      273570.00	      4856	      3%
+1000088	        PureGrip Tennis Racket	      561113.00	      4857	     14%
+1000308	           AquaStep Flip-Flops	      827491.00	      4858	     63%
+1000026	                 SmartHome Hub	      783871.00	      4897	     28%
+1000018	                SmartClean Mop	      260298.00	      4933	     81%
+1000134	               BrightGlow Lamp	        2281.00	      4936	     15%
+1000354	         MaxiCharge Power Bank	      280539.00	      4962	     54%
+1000196	         SparkClean Toothbrush	      959044.00	      5014	     18%
+1000121	               AquaEase Filter	      641305.00	      5054	     29%
+1000221	                LuxeSkin Serum	      285743.00	      5055	     55%
+1000392	              QuickSew Machine	      336219.00	      5070	     12%
+1000109	         AquaPure Water Bottle	      780418.00	      5080	     74%
+1000154	          UltraClean Detergent	       87670.00	      5089	     17%
+1000362	                SmartClean Mop	      240879.00	      5143	      6%
+1000045	           SwiftCharge Adapter	      808623.00	      5159	     47%
+1000152	         BoldBrew Coffee Maker	      333979.00	      5164	      1%
+1000310	             PureComfort Chair	      655641.00	      5219	      4%
+1000067	         BoldBrew Coffee Maker	      244054.00	      5223	     60%
+1000097	           SwiftCharge Adapter	      488480.00	      5231	      3%
+1000158	        PureGrip Tennis Racket	      383912.00	      5235	     84%
+1000001	             SafeShield Helmet	      650073.00	      5249	     58%
+1000039	               FreshGuard Mask	      583454.00	      5319	     23%
+1000075	       PowerMax Extension Cord	      664305.00	      5322	     76%
+1000008	              ActiveStep Shoes	      899097.00	      5335	     26%
+1000129	            SpeedySlice Cutter	      853711.00	      5350	     63%
+1000239	          BrightFlex Desk Lamp	      419461.00	      5356	     87%
+1000296	                EasyChop Board	      345819.00	      5357	     86%
+1000389	            ShineBright Mirror	      432122.00	      5405	     13%
+1000074	               UltraLight Tent	      650447.00	      5483	      7%
+1000105	                SmoothFlow Pen	      270776.00	      5621	     24%
+1000342	          UltraClean Detergent	      380100.00	      5686	     95%
+1000142	           StormForce Umbrella	      321934.00	      5718	     25%
+1000065	            PowerBoost Charger	      796531.00	      5731	     14%
+1000081	              RapidMix Blender	      983133.00	      5737	     91%
+1000230	           MegaBass Headphones	      127010.00	      5761	     40%
+1000189	          BrightFlex Desk Lamp	      994537.00	      5784	     70%
+1000363	           FreshPack Lunch Box	      132537.00	      5807	      3%
+1000161	           AquaStep Flip-Flops	      182819.00	      5825	     31%
+1000137	           SwiftLift Dumbbells	      329536.00	      5827	     28%
+1000102	            ZenBreeze Diffuser	      200983.00	      5879	     70%
+1000376	              EcoChic Tote Bag	      826885.00	      5881	     30%
+1000306	               UltraLight Tent	      379321.00	      5891	     25%
+1000267	             PureComfort Chair	      552125.00	      5923	     19%
+1000263	        AromaFlow Oil Diffuser	      918561.00	      5959	     82%
+1000032	               FreshGuard Mask	      119113.00	      5968	     30%
+1000322	           StormForce Umbrella	      379946.00	      5977	     61%
+1000231	        AromaFlow Oil Diffuser	      207394.00	      6000	      7%
+1000237	           FreshPack Lunch Box	      114981.00	      6008	     52%
+1000050	           StoneEdge Knife Set	      454679.00	      6011	     52%
+1000396	           StoneEdge Knife Set	       48270.00	      6045	     62%
+1000139	           QuickClean Scrubber	      521576.00	      6046	     66%
+1000216	           LightWave Projector	      506543.00	      6087	     33%
+1000091	              MegaClean Vacuum	      860917.00	      6102	     43%
+1000124	             FreshVibes Candle	      151580.00	      6116	     67%
+1000116	             SafeShield Helmet	      244910.00	      6141	      0%
+1000381	                 ChillEase Fan	      708542.00	      6201	     44%
+1000338	              ZenTime Yoga Mat	      973585.00	      6241	     91%
+1000273	           ToughTrail Backpack	      260093.00	      6260	     28%
+1000248	                TurboWash Soap	      369089.00	      6297	     46%
+1000058	              CloudWear Hoodie	      468872.00	      6301	     60%
+1000013	          UltraTone Microphone	       35001.00	      6357	     53%
+1000274	           ToughTrail Backpack	      226366.00	      6381	     68%
+1000202	          UltraClean Detergent	      740262.00	      6489	     54%
+1000379	               LuxeStyle Watch	      198881.00	      6517	     81%
+1000222	              StoneBrew Teapot	       86275.00	      6534	     21%
+1000232	              CloudWear Hoodie	      761786.00	      6551	     31%
+1000079	                 EcoBreeze Fan	      953178.00	      6576	     66%
+1000262	              StoneBrew Teapot	      924515.00	      6583	     59%
+1000220	              ChillMate Cooler	      596849.00	      6610	     18%
+1000126	                QuickBake Oven	      756891.00	      6616	     71%
+1000269	             TrueTone Speakers	      841394.00	      6670	     10%
+1000127	                SmartClean Mop	      951661.00	      6671	     45%
+1000206	              ActiveStep Shoes	      761420.00	      6714	     60%
+1000224	       VitalMix Blender Bottle	      366437.00	      6714	     79%
+1000194	          VitalCore Supplement	      832299.00	      6720	     12%
+1000145	               LuxeStyle Watch	      151240.00	      6727	     54%
+1000040	               CloudEase Throw	      948905.00	      6760	     26%
+1000066	              RapidMix Blender	       42009.00	      6775	     80%
+1000330	           LightWave Projector	      506265.00	      6778	     45%
+1000188	               SpeedGrip Mouse	      341441.00	      6813	     27%
+1000017	                 SmartHome Hub	      540977.00	      6853	      8%
+1000147	         SparkClean Toothbrush	       87011.00	      6865	     52%
+1000024	         AquaPure Water Bottle	      406752.00	      6882	     66%
+1000186	                QuickBake Oven	      491026.00	      6904	     91%
+1000173	            TurboGrill BBQ Set	       21494.00	      6930	     55%
+1000125	              ZenTime Yoga Mat	      178698.00	      6939	      1%
+1000106	                  ProHeat Iron	      747696.00	      6958	     71%
+1000182	                GlowTime Clock	      180639.00	      6971	     70%
+1000326	               UltraLight Tent	      151853.00	      6978	     95%
+1000038	        PureGrip Tennis Racket	      497972.00	      7006	     98%
+1000383	           ToughTrail Backpack	      378441.00	      7013	     81%
+1000219	          ChillWave Cooler Bag	      252845.00	      7014	     62%
+1000394	                StoneCraft Mug	      335590.00	      7073	     19%
+1000258	                GlowTime Clock	      527144.00	      7129	     75%
+1000344	              CloudSoft Pillow	      687802.00	      7136	     89%
+1000046	              StoneBrew Teapot	      195272.00	      7217	     39%
+1000076	               UltraLight Tent	      784630.00	      7224	     66%
+1000051	                  ProHeat Iron	      878818.00	      7295	     96%
+1000084	          GlowFresh Toothpaste	      979358.00	      7304	      0%
+1000325	              RapidMix Blender	      349677.00	      7323	     92%
+1000191	         BrightPath Flashlight	      347854.00	      7332	     59%
+1000334	              CloudWear Hoodie	      963664.00	      7399	     93%
+1000201	            PowerBoost Charger	      318675.00	      7421	     18%
+1000057	            SmoothCare Shampoo	      829874.00	      7439	     31%
+1000175	         BrightPath Flashlight	      234791.00	      7444	     98%
+1000364	             GourmetChef Knife	      951034.00	      7447	     49%
+1000244	     LuxeBrew Espresso Machine	         110.00	      7467	     89%
+1000130	          UltraTone Microphone	      401727.00	      7533	     27%
+1000382	        PureGrip Tennis Racket	      321872.00	      7555	     43%
+1000400	              ActiveStep Shoes	      911869.00	      7584	     42%
+1000266	             TrueTone Speakers	      872469.00	      7595	     10%
+1000305	       VitalMix Blender Bottle	      614259.00	      7600	     10%
+1000261	          UltraClean Detergent	      744840.00	      7662	     49%
+1000073	        AromaFlow Oil Diffuser	      878209.00	      7699	     29%
+1000070	         SparkClean Toothbrush	      225550.00	      7704	     50%
+1000003	              LuxeTouch Wallet	      564440.00	      7709	     65%
+1000387	            TurboGrill BBQ Set	      403881.00	      7711	     10%
+1000086	              EcoChic Tote Bag	      669955.00	      7730	     46%
+1000205	              MegaClean Vacuum	      985652.00	      7758	     92%
+1000365	              ActiveStep Shoes	       81938.00	      7759	     50%
+1000245	            SpeedySlice Cutter	      625581.00	      7773	     95%
+1000347	             GourmetChef Knife	      898514.00	      7774	     62%
+1000254	          GlowFresh Toothpaste	      118632.00	      7779	     72%
+1000246	          VitalCore Supplement	      245435.00	      7874	     31%
+1000148	            ShineBright Mirror	       17237.00	      7876	     75%
+1000028	          UltraTone Microphone	      621609.00	      7904	     31%
+1000367	           TravelMate Suitcase	      260363.00	      7922	     81%
+1000014	               BrightGlow Lamp	      515668.00	      7944	     90%
+1000236	              MegaClean Vacuum	      684024.00	      7947	     43%
+1000256	             GourmetChef Knife	      609818.00	      7956	     91%
+1000019	        PureGrip Tennis Racket	      623865.00	      8013	     14%
+1000060	             SafeShield Helmet	       30193.00	      8015	     69%
+1000311	                 ChillEase Fan	      458445.00	      8092	     70%
+1000249	                LuxeSkin Serum	      966612.00	      8111	     63%
+1000284	               FreshGuard Mask	       42251.00	      8139	     58%
+1000193	              RapidMix Blender	      413377.00	      8150	     41%
+1000238	                 SmartFit Band	      508359.00	      8163	     19%
+1000356	       GlideEase Roller Skates	      314493.00	      8173	     35%
+1000184	                SmartClean Mop	      474410.00	      8177	     83%
+1000300	             PowerCore Battery	      754174.00	      8231	     63%
+1000226	        AromaFlow Oil Diffuser	      470342.00	      8284	     15%
+1000351	             FreshVibes Candle	      161024.00	      8308	     47%
+1000277	           ChillCloud Mattress	      751355.00	      8341	     36%
+1000072	             CozyDream Blanket	       34748.00	      8381	     65%
+1000146	           GlidePro Skateboard	       90935.00	      8396	     83%
+1000352	               BrightGlow Lamp	       19397.00	      8411	      0%
+1000358	             PowerCore Battery	      250560.00	      8413	     57%
+1000313	              HydroGuard Flask	      223344.00	      8413	     71%
+1000259	           LightWave Projector	      204599.00	      8416	     80%
+1000327	           ChillCloud Mattress	      140204.00	      8475	     62%
+1000132	           FitTrack Smartwatch	      466924.00	      8515	      1%
+1000398	           MegaBass Headphones	      642951.00	      8550	     65%
+1000083	                EasyChop Board	      860589.00	      8588	     73%
+1000172	     LuxeBrew Espresso Machine	       44557.00	      8621	     96%
+1000390	              QuickSew Machine	      585118.00	      8636	     94%
+1000203	              MegaClean Vacuum	       24889.00	      8643	     50%
+1000133	               ZenEase Hammock	      967103.00	      8661	     24%
+1000333	       VitalMix Blender Bottle	      926184.00	      8675	     55%
+1000099	            PowerBoost Charger	      820950.00	      8676	     34%
+1000143	            SmoothCare Shampoo	      449818.00	      8689	     14%
+1000044	              MegaClean Vacuum	      607844.00	      8738	     90%
+1000115	               EasyFix Toolkit	      151403.00	      8742	     52%
+1000359	           PureChill Ice Maker	      889775.00	      8743	     68%
+1000291	             PureComfort Chair	      344000.00	      8748	     70%
+1000082	             FreshVibes Candle	      306633.00	      8762	     97%
+1000328	         BrightPath Flashlight	      483531.00	      8819	     35%
+1000214	                  ProHeat Iron	      998393.00	      8828	     75%
+1000299	               ZenEase Hammock	      625760.00	      8877	     12%
+1000242	          VitalCore Supplement	      898567.00	      8909	     34%
+1000252	          UltraClean Detergent	      949754.00	      8959	     92%
+1000085	           FreshPack Lunch Box	       14915.00	      8960	     47%
+1000059	          UltraTone Microphone	      113755.00	      8984	     89%
+1000215	              EcoChic Tote Bag	      945596.00	      9000	     47%
+1000332	              MegaClean Vacuum	      375766.00	      9037	     34%
+1000331	          BrightFlex Desk Lamp	      675327.00	      9075	     87%
+1000255	       VitalMix Blender Bottle	      237153.00	      9081	     22%
+1000385	            TurboGrill BBQ Set	      729364.00	      9082	     32%
+1000042	           DreamChic Organizer	      896220.00	      9094	     44%
+1000010	          BrightFlex Desk Lamp	      236579.00	      9149	     21%
+1000283	           GlidePro Skateboard	      634257.00	      9153	     33%
+1000386	           MegaBass Headphones	      434328.00	      9195	      4%
+1000009	                GlowSkin Cream	      723810.00	      9267	     33%
+1000174	             GourmetChef Knife	      802293.00	      9312	     27%
+1000169	          BrightFlex Desk Lamp	      301516.00	      9317	     48%
+1000027	               HeatWave Kettle	      153177.00	      9358	     97%
+1000276	           GlideClean Squeegee	      359178.00	      9364	     56%
+1000053	             TrueTone Speakers	      489553.00	      9397	     47%
+1000204	        PureGrip Tennis Racket	       31364.00	      9415	     94%
+1000272	              TrueFocus Camera	        5949.00	      9434	     90%
+1000288	       PowerMax Extension Cord	      627484.00	      9464	     92%
+1000163	             CozyDream Blanket	      800679.00	      9503	     65%
+1000041	              LuxeTouch Wallet	       45813.00	      9506	     70%
+1000316	           DreamChic Organizer	      888929.00	      9508	     26%
+1000384	          BrightFlex Desk Lamp	      547160.00	      9518	     29%
+1000302	           SwiftCharge Adapter	       44999.00	      9527	     29%
+1000131	               FreshGuard Mask	      737442.00	      9531	     16%
+1000096	       PowerMax Extension Cord	      246897.00	      9603	     20%
+1000279	                GlowSkin Cream	      633347.00	      9616	     46%
+1000243	               AquaEase Filter	      169651.00	      9684	     49%
+1000151	            AromaBliss Tea Set	      241693.00	      9715	     79%
+1000179	           AquaShield Raincoat	      439150.00	      9719	     10%
+1000345	        AromaFlow Oil Diffuser	       20789.00	      9725	     22%
+1000278	               CloudEase Throw	      467120.00	      9728	      2%
+1000321	             FreshVibes Candle	      689961.00	      9748	     51%
+1000037	              ActiveStep Shoes	      555640.00	      9790	     79%
+1000297	              CloudWear Hoodie	      364254.00	      9816	     54%
+1000034	              GourmetGrill Pan	      530767.00	      9852	     21%
+1000123	             CozyDream Blanket	      645898.00	      9860	     92%
+1000100	              EcoChic Tote Bag	      941832.00	      9879	     74%
+1000183	          VitalCore Supplement	      182857.00	      9891	     33%
+1000049	        PureGrip Tennis Racket	      161625.00	      9915	     34%
+1000393	              CloudSoft Pillow	      427782.00	      9932	     97%
+1000195	                StoneCraft Mug	      974390.00	      9956	     52%
+1000064	               BrightGlow Lamp	      428651.00	      9997	     49%

@@ -1,6 +1,7 @@
 #ifndef dialog_h
 #define dialog_h
 // пока что не нужно, использую switch case
+/*
 void dialog (void);
 int choose_option (int dialog_number);
 void exit_dialog (Ozon **product, int* products_number);
@@ -31,4 +32,5 @@ static void (*func_num[])(Ozon **product, int* products_number) = {exit_dialog, 
 
 static const int count_sorts = sizeof(sorts) / sizeof(sorts[0]);
 static void (*sort_num[])(const void *a, const void *b) = {};
+ */
 #endif
